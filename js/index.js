@@ -1,1 +1,1 @@
-console.log('hare krihsno')
+function
